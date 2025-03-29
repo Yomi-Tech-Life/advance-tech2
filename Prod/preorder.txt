@@ -1,0 +1,1 @@
+To effectively solve production problems, follow a structured approach: identify the problem, analyze its root cause, develop solutions, implement them, monitor the results, and continuously improve
